@@ -8,5 +8,5 @@
 - [x] Visualize distributions: count plots for categorical variables
 - [x] Correlation analysis for numerical variables
 - [x] Explore relationships with admission status
-- [ ] Install required libraries (matplotlib, seaborn) - In Progress
-- [ ] Run the script to execute EDA
+- [x] Install required libraries (matplotlib, seaborn)
+- [x] Run the script to execute EDA
