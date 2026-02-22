@@ -1,0 +1,6 @@
+id,name,marks,age,passed
+1,Ajai,85.0,20.0,True
+2,Ravi,90.0,21.0,True
+3,Sita,78.0,19.0,False
+4,Arjun,85.25,22.0,True
+5,Meena,88.0,20.5,True
